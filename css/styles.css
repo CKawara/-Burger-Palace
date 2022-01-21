@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.order{
+    background-color: white;
+    height: 500px;
+}
+.services{
+    background-color: #edf5ee;
+    height: 300px;
+}
+.mobile{
+    background-color: #F6B400;
+    height: 400px;
+}
+footer{
+    height: 30px;
+    padding-top: 5px;
+}
