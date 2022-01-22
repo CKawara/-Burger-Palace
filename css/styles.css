@@ -19,7 +19,8 @@ body{
 
 .services{
     background-color: #edf5ee;
-    height: 500px;
+    height: 600px;
+    
 }
 .mobile{
     background-color: #F6B400;
@@ -96,4 +97,27 @@ li{
     padding-left: 70px;
     font-weight: 900;
     font-size: 60px;
+}
+.parent{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.double2{
+    position: relative;
+    top: 0;
+    left: 0;
+
+
+}
+.double1{
+    position: absolute;
+    top: 100px;
+    left: 40px;
+
+
+}    
+#double{
+    float: right;
+    padding-right: 5%;
 }
