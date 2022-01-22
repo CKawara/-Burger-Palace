@@ -2,13 +2,19 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+
+}
+
+body{
+    min-width: 1500px;
+    min-height: 100vh;
 }
 .order{
     background-color: white;
-    height: 500px;
+    height: 800px;
 }
 #gradient{
-    background: linear-gradient(110deg, white 50%, #F6B400 50%)
+    background: linear-gradient(107deg, white 50%, #F6B400 50%)
 }
 
 .services{
@@ -23,12 +29,30 @@ footer{
     height: 30px;
     padding-top: 5px;
 }
+ul {
+    padding: 0;
+    overflow: auto;
+   
+  }
+  
 
 li{
     display: inline;
     float: right;
-    padding-right: 50px;
+    padding-right: 100px;
+    padding-top: 30px;
+    font-size: x-large;
+    font-weight: 700;
 }
 #logo{
     float: left;
+    padding-top: 0;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.image1{
+    float: right;
+    padding-bottom: 60px;
+    padding-right: 400px;
 }
