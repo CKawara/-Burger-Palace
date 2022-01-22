@@ -56,3 +56,28 @@ li{
     padding-bottom: 60px;
     padding-right: 400px;
 }
+.rain{
+    border-style: dashed;
+    height: 60%;
+    width: 30%;
+    margin: 5%;
+}
+#shine{
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+#cook{
+    font-weight: 500;
+    font-size: larger;
+    margin-bottom: 50px;
+}
+.button{
+    background-color: #F6B400;
+    color: white;
+    font-size: large;
+    padding: 20px;
+    margin-left: 10%;
+    margin-top: 10%;
+    border-radius: 30px;
+}
