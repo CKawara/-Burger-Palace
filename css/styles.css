@@ -10,6 +10,7 @@
 #gradient{
     background: linear-gradient(110deg, white 50%, #F6B400 50%)
 }
+
 .services{
     background-color: #edf5ee;
     height: 300px;
@@ -21,4 +22,13 @@
 footer{
     height: 30px;
     padding-top: 5px;
+}
+
+li{
+    display: inline;
+    float: right;
+    padding-right: 50px;
+}
+#logo{
+    float: left;
 }
