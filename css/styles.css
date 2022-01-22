@@ -84,9 +84,16 @@ li{
 .mobile1{
     float: right;
     padding: 30px;
-    padding-right: 50px;
+    padding-right: 70px;
 }
 .mobile2{
     float: right;
     padding: 30px;
+    padding-right: 100px;
+}
+.discover{
+    padding: 100px;
+    padding-left: 70px;
+    font-weight: 900;
+    font-size: 60px;
 }
