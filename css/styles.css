@@ -7,6 +7,9 @@
     background-color: white;
     height: 500px;
 }
+#gradient{
+    background: linear-gradient(110deg, white 50%, #F6B400 50%)
+}
 .services{
     background-color: #edf5ee;
     height: 300px;
