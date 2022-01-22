@@ -58,7 +58,6 @@ li{
     padding-right: 400px;
 }
 .rain{
-    border-style: dashed;
     height: 60%;
     width: 30%;
     margin: 5%;
@@ -120,4 +119,37 @@ li{
 #double{
     float: right;
     padding-right: 5%;
+}
+.decker{
+    padding: 100px;
+}
+.mustard{
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.mustard inline{
+    color: #F6B400;
+}
+.taste{
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 150px;
+}
+.symbols{
+    background-color: #bbb;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    margin: 20px;
+    margin-left: 30px;
+    display: inline-block;
+}
+#dot{
+    background-color: rgb(238, 122, 55);
+}
+.arrow{
+    color: #F6B400;
+    font-size: 100px;
+    font-weight: 900;
 }
