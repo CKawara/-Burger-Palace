@@ -51,6 +51,12 @@ ul {
     margin-bottom: 40px;
     margin-left: 20px;
     margin-top: 10px;
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: Lobster;
+}
+#logo inline{
+    color: #F6B400;
 }
 .image1{
     float: right;
@@ -247,6 +253,9 @@ ul {
     float: left;
     width: 30%;
     margin: 50px;
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: Lobster;
 }
 .site{
     float: left;
@@ -304,4 +313,13 @@ input{
 .media{
     float: left;
     margin-left: 450px;
+}
+a:hover{
+    color: brown;
+}
+a{
+    color: black;
+}
+.lastlogo inline{
+    color: #F6B400;
 }
