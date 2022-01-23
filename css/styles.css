@@ -289,3 +289,19 @@ input{
 .google{
     background-color: black;
 }
+
+.copy{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+.designer{
+    margin-top: 10px;
+    margin-right: 20px;
+    float: right;
+}
+.media{
+    float: left;
+    margin-left: 450px;
+}
