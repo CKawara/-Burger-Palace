@@ -241,13 +241,12 @@ ul {
     background-color: #E1EBE6;
 }
 .shop:hover{
-    background-color:  #F6B400;;
+    background-color:  #F6B400;
 }
 .lastlogo{
     float: left;
     width: 30%;
     margin: 50px;
-
 }
 .site{
     float: left;
@@ -260,17 +259,27 @@ ul {
 }
 .news{
     float: left;
-    border: solid;
     width: 30%;
     margin-top: 70px;
     margin-left: 30px;
 }
 #last{
     height: 300px;
-    padding: 50px;
+    padding: 30px;
 }
 .sub{
     font-weight: 700;
     font-size: xx-large;
 }
-
+input{
+    height: 50px;
+    width: 70%;
+    background: none;
+    border-radius: 5px;
+}
+.submit{
+    width: 120px;
+    background-color: #F6B400;
+    color: white;
+    margin-left: -10px;
+}
