@@ -191,3 +191,11 @@ li{
     color: black;
     padding: 30px;
 }
+.menu inline{
+    color: #F6B400;
+}
+.menu{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+}
